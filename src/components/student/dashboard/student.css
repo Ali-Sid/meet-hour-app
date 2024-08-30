@@ -1,0 +1,24 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.student-container {
+  width: 90vw;
+}
+
+.student-hero {
+  margin: 50px;
+  padding: 50px;
+  background-color: cornflowerblue;
+  color: #fff;
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.tabs-container {
+  width: 100%;
+  margin: 10px 50px 10px 50px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 25px;
+  /* padding: 50px; */
+}
